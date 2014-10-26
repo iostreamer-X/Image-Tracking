@@ -3,7 +3,7 @@ Image-Tracking
 
 A very basic approach to Object tracking through openCV and Xtend
 
-I searched the interwebz for motion detection and image-tracking, and all the solutions felt tough to execute(because no prior experience
+I searched the interwebz for motion detection and image-tracking, and all the solutions felt quite advanced to execute(because of no prior experience
 in openCV).So, I decided to do it on my own and learn on the way.
 
 Working:
